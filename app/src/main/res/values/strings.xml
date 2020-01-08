@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Just face</string>
+    <string name="subscription_key">5dc8d694714f4b828d9bf8238432c0bb</string>
+    <string name="endpoint">https://westus.api.cognitive.microsoft.com/face/v1.0</string>
+    <string name="detection">Detection</string>
+    <string name="add_subscription_key_tip_title">Subscription Key is must</string>
+    <string name="add_subscription_key_tip">add your end point for the services</string>
+    <string name="image_with_faces_to_analyze">Image with faces to analyze</string>
+    <string name="browse_for_a_face_image">Browse for a face image</string>
+    <string name="from_gallery">From Gallery</string>
+</resources>
